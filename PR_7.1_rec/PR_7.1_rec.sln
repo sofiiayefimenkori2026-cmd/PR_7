@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PR_7.1_rec", "PR_7.1_rec\PR_7.1_rec.vcxproj", "{B95E9241-E298-4EC3-94C8-8B9137955DAE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest_07_1_rec", "UnitTest_07_1_rec\UnitTest_07_1_rec.vcxproj", "{7AF85C9B-DDEA-48B9-BCC8-1395298392FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95E9241-E298-4EC3-94C8-8B9137955DAE}.Debug|x64.ActiveCfg = Debug|x64
+		{B95E9241-E298-4EC3-94C8-8B9137955DAE}.Debug|x64.Build.0 = Debug|x64
+		{B95E9241-E298-4EC3-94C8-8B9137955DAE}.Release|x64.ActiveCfg = Release|x64
+		{B95E9241-E298-4EC3-94C8-8B9137955DAE}.Release|x64.Build.0 = Release|x64
+		{7AF85C9B-DDEA-48B9-BCC8-1395298392FB}.Debug|x64.ActiveCfg = Debug|x64
+		{7AF85C9B-DDEA-48B9-BCC8-1395298392FB}.Debug|x64.Build.0 = Debug|x64
+		{7AF85C9B-DDEA-48B9-BCC8-1395298392FB}.Release|x64.ActiveCfg = Release|x64
+		{7AF85C9B-DDEA-48B9-BCC8-1395298392FB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

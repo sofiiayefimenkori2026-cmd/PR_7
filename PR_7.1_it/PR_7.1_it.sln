@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PR_7.1_it", "PR_7.1_it\PR_7.1_it.vcxproj", "{6EA9FD2C-8EB2-4C68-89AD-18B414030FE0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest_07_1_it", "UnitTest_07_1_it\UnitTest_07_1_it.vcxproj", "{DB9798F3-014F-48DC-B8BE-6AC0C916FCF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EA9FD2C-8EB2-4C68-89AD-18B414030FE0}.Debug|x64.ActiveCfg = Debug|x64
+		{6EA9FD2C-8EB2-4C68-89AD-18B414030FE0}.Debug|x64.Build.0 = Debug|x64
+		{6EA9FD2C-8EB2-4C68-89AD-18B414030FE0}.Release|x64.ActiveCfg = Release|x64
+		{6EA9FD2C-8EB2-4C68-89AD-18B414030FE0}.Release|x64.Build.0 = Release|x64
+		{DB9798F3-014F-48DC-B8BE-6AC0C916FCF4}.Debug|x64.ActiveCfg = Debug|x64
+		{DB9798F3-014F-48DC-B8BE-6AC0C916FCF4}.Debug|x64.Build.0 = Debug|x64
+		{DB9798F3-014F-48DC-B8BE-6AC0C916FCF4}.Release|x64.ActiveCfg = Release|x64
+		{DB9798F3-014F-48DC-B8BE-6AC0C916FCF4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
